@@ -1,0 +1,10 @@
+{
+  "name": "cwp-10",
+  "author": "Andrei Chayeuski",
+  "dependencies": {
+    "pg": "^7.5.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.41.0",
+    "tedious": "^2.7.1"
+  }
+}
